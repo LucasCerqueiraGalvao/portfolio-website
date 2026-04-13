@@ -1,6 +1,6 @@
-# Site de Portfólio
+# Portfolio Website
 
-Bem-vindo ao repositório do meu site de portfólio. Este projeto tem como objetivo apresentar meus projetos, habilidades e informações de contato de forma profissional e visualmente atraente.
+Interactive portfolio website for selected projects.
 
 ## Estrutura do Projeto
 
